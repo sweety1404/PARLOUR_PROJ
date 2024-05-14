@@ -1,0 +1,947 @@
+/*
+====================================
+Medium Screen - Others
+====================================
+*/
+@media screen and (min-width: 992px) and (max-width: 1200px) {
+
+.topheader-left p {
+    font-size: 14px;
+}
+
+.topheader-inner ul li span {
+    font-size: 14px;
+}
+
+.topheader-inner ul li a {
+    font-size: 14px;
+}
+
+.header-inner ul li a {
+    font-size: 13px;
+    padding: 19px 0px 18px 18px;
+
+}
+
+.header-right form {
+    margin-top: 9px;
+}
+
+
+.headerdwon-part h2 {
+    font-size: 28px;
+    line-height: 25px;
+    width: 100%;
+    top: 5%;
+    left: 9%;
+}
+
+.headerdwon-part p {
+    font-size: 12px;
+    width: 94%;
+    top: 34%;
+    left: 10%;
+}
+
+.headerdwon-btn {
+    top: 78%;
+    left: 9%;
+}
+
+
+.headerdwon-btn a {
+    font-size: 13px;
+    padding: 9px 13px;
+}
+
+
+.datasyco-area {
+    padding-bottom: 180px;
+}
+
+
+.services-part {
+    background-color: #179ADE;
+    padding: 17px;
+    position: absolute;
+    width: 81%;
+    top: -75px;
+    left: 10%;
+    right: 10%;
+}
+
+
+.servicesinner-area {
+    padding-top: 55px;
+}
+
+.srvinner-part h2 {
+    font-size: 25px;
+    padding-top: 0px;
+}
+
+.srvinner-part h3 {
+    font-size: 25px;
+    padding-top: 2px;
+}
+
+.whychoose-part1 p {
+    font-size: 14px;
+}
+
+.client-top p {
+    font-size: 14px;
+}
+
+.staytuned-right form {
+    width: 100%;
+    padding-top: 37px;
+}
+
+.staytuned-right form input[type="submit"] {
+    margin-left: 11px;
+}
+
+.testimonial-right p {
+    font-size: 12px;
+    line-height: 26px;
+    padding-top: 21px;
+}
+
+.testimonial-right h3 {
+    text-align-last: right;
+    padding-top: 0px;
+}
+
+.dwonfooter-part form input[type="submit" ] {
+    font-size: 15px;
+    width: 70%;
+    padding: 6px 10px !important;
+    margin-top: 26px;
+}
+
+}
+
+/*
+====================================
+Small Screen - Tablate
+====================================
+*/
+@media screen and (min-width: 768px) and (max-width: 991px) {
+.topheader-area {
+    display: none;
+}
+
+
+.header-area {
+    display: none;
+}
+
+.mobileheader-area {
+    display: block;
+}
+
+
+.navbar-brand img {
+    max-width: 100%;
+    display: block;
+}
+
+.main-menu-part ul {
+    padding-top: 20px;
+}
+
+.main-menu-part ul li {
+    float: none;
+    border-bottom: 1px solid #000000;
+}
+
+.main-menu-part ul li a {
+    padding: 21px 0px 12px 5px;
+}
+
+.datasyco-area {
+    padding: 50px 0;
+}
+
+.datasyco-right p {
+    font-size: 15px;
+    line-height: 22px;
+}
+
+.mainservices-area {
+    padding: 40px 0;
+}
+
+.services-left img {
+    position: initial;
+    top: -207px;
+}
+
+.services-left {
+    margin-bottom: 101px;
+}
+
+.services-part {
+    width: 75%;
+    top: 130px;
+}
+
+.servicesinner-area {
+    background-color: #fff;
+    padding: 0px 0;
+    padding-top: 0px;
+}
+
+
+.ourservice-part img {
+    width: 100%;
+}
+
+.ourservice-parts {
+    bottom: -22%;
+}
+
+.ourservice-part {
+    margin-bottom: 89px;
+}
+
+.oursrvsinner-area {
+    padding: 0px 0;
+    padding-top: 0px;
+}
+
+
+.oursrvsinner-part img {
+    width: 100%;
+}
+
+.oursrvsinner-part {
+    margin-bottom: 100px;
+}
+
+.oursrvsinner-parts {;
+    bottom: -22%;
+}
+
+.lastservice-part {
+    padding-top: 14px;
+}
+
+.whychoose-part1 h3 {
+    font-size: 17px;
+    margin-top: -53px;
+    font-weight: 600;
+}
+
+.whychoose-part1 p {
+    font-size: 14px;
+}
+
+.whychoose-part1 {
+    padding-top: 0px;
+}
+
+.rqtcb-right form {
+    width: 100%;
+    padding-top: 29px;
+}
+
+.rqtcb-left p {
+    line-height: 33px;
+}
+
+.rqtcb-right form input[type="submit"] {
+    width: 100%;
+}
+
+.client-area {
+    padding-bottom: 30px;
+}
+
+.client-top p {
+    font-size: 15px;
+}
+
+
+.client-part img {
+    padding-bottom: 24px;
+}
+
+.staytuned-left p {
+    font-size: 12px;
+}
+
+.staytuned-right form input[type="submit"] {
+    width: 100%;
+    margin-left: 0px;
+    margin-bottom: 0px;
+    margin-top: 6px;
+}
+
+.staytuned-right form input[type="email"] {
+    font-size: 15px;
+    padding: 10px 16px;
+    width: 100%;
+}
+
+.staytuned-left h2 {
+    font-size: 28px;
+    padding-top: 24px;
+    padding-bottom: 5px;
+}
+
+.testimonials-area {
+    padding: 40px 0;
+}
+
+.testimonials-left img {
+    padding-top: 37px;
+}
+
+.testimonial-right h2 {
+    padding-bottom: 5px;
+    padding-left: 12px;
+    padding-top: 28px;
+}
+
+.testimonial-left img {
+    width: 70%;
+    padding-top: 39px;
+    padding-left: 10px;
+}
+
+.testimonial-right p {
+    font-size: 15px;
+    line-height: 24px;
+    padding-top: 12px;
+}
+
+.testimonial-right h3 {
+    padding-top: 5px;
+}
+
+
+.footer-left img {
+    padding-top: 0px;
+}
+
+.footer-part2 h5, .footer-part3 h5 {
+    padding-top: 33px;
+}
+
+.dwonfooter-part form input[type="email" ] {
+    padding: 8px 6px;
+    margin-bottom: 17px;
+}
+
+.dwonfooter-part form input[type="text" ] {
+    padding: 8px 6px;
+}
+
+.dwonfooter-part form input[type="submit" ] {
+    font-size: 15px;
+    width: 100%;
+    padding: 9px 10px !important;
+    margin-top: 23px;
+}
+
+}
+
+/*
+====================================
+Small Screen - Mobile
+====================================
+*/
+@media screen and (min-width: 576px) and (max-width: 767px) {	
+.topheader-area {
+    display: none;
+}
+
+
+.header-area {
+    display: none;
+}
+
+.mobileheader-area {
+    display: block;
+}
+
+
+.navbar-brand img {
+    width: 205px;
+    display: block;
+}
+
+.main-menu-part ul {
+    padding-top: 20px;
+}
+
+.main-menu-part ul li {
+    float: none;
+    border-bottom: 1px solid #000000;
+}
+
+.main-menu-part ul li a {
+    padding: 21px 0px 12px 5px;
+}
+
+.datasyco-area {
+    padding: 40px 0;
+    padding-bottom: 40px;
+}
+
+
+.datasyco-left h2 {
+    font-size: 32px;
+    padding-bottom: 15px;
+}
+
+.mainservices-area {
+    padding: 40px 0;
+}
+
+.services-part {
+    padding: 20px;
+    position: inherit;
+    top: -27px;
+    left: 20%;
+    width: 60%;
+    right: 20%;
+}
+
+.services-left img {
+    position: initial;
+    top: -207px;
+}
+
+
+.servicesinner-area {
+    padding: 5px 0;
+    padding-top: 1px;
+}
+
+.srvinner-part h2 {
+    font-size: 20px;
+    padding-top: 0px;
+}
+
+.srvinner-part h3 {
+    font-size: 21px;
+    padding-top: 2px;
+}
+
+.mainoursrs-area {
+    padding: 40px 0;
+}
+
+
+.ourservice-part {
+    margin-bottom: 80px;
+}
+
+
+.ourservice-part img {
+    width: 100%;
+}
+
+.ourservice-parts {
+    bottom: -26%;
+}
+
+
+.ourservice-parts {
+    bottom: -12% !important;
+}
+
+.oursrvsinner-area {
+    padding: 0px 0;
+    padding-top: 0px;
+}
+
+
+.oursrvsinner-part img {
+    width: 100%;
+}
+
+.oursrvsinner-part {
+    margin-bottom: 85px;
+}
+
+.oursrvsinner-parts {
+    bottom: -26%;
+}
+
+
+.oursrvsinner-parts {
+    bottom: -14% !important;
+}
+
+.ourservice-area {
+    padding: 0px 0;
+}
+
+
+.lastservice-area {
+    padding: 0px 0;
+}
+
+.lastservice-part {
+    padding-top: 11px;
+}
+
+.whychoose-area {
+    padding: 40px 0;
+}
+
+
+.whychoose-part1 h3 {
+    font-size: 16px;
+    font-weight: 600;
+    padding-left: 73px;
+    margin-top: -48px;
+}
+
+.whychoose-part1 p {
+    font-size: 14px;
+}
+
+.whychoose-part1 {
+    padding-top: 0px;
+}
+
+.whychoose-right img {
+    padding-top: 20px;
+}
+
+
+.rqtcb-area {
+    padding: 40px 0;
+}
+
+.rqtcb-right form {
+    padding-top: 16px;
+}
+
+
+.rqtcb-right form input[type="submit"] {
+    width: 100%;
+}
+
+.client-area {
+    padding: 40px 0;
+    padding-bottom: 30px;
+}
+
+.client-top h2 {
+    font-size: 24px;
+}
+
+
+.client-top p {
+    font-size: 15px;
+    padding-bottom: 12px;
+}
+
+.client-part img {
+    padding-bottom: 15px;
+}
+
+.staytuned-left h2 {
+    font-size: 28px;
+    text-align: center;
+}
+
+.staytuned-left p {
+    text-align: center;
+    padding-bottom: 15px;
+}
+
+.staytuned-right form input[type="email"] {
+    width: 100%;
+}
+
+.staytuned-right form input[type="submit"] {
+    width: 100%;
+    margin-left: 0px;
+    margin-top: 7px;
+    margin-bottom: 0px;
+}
+
+
+.testimonials-area {
+    padding: 40px 0;
+}
+
+.testimonials-left img {
+    padding-top: 0px;
+}
+
+.testimonial-left img {
+    display: none;
+}
+
+.testimonial-right h2 {
+    font-size: 24px;
+    padding-left: 0px;
+    padding-top: 10px;
+    text-align: center;
+}
+
+.testimonial-right span {
+    margin-left: 0px;
+    margin: auto;
+}
+
+.testimonial-right p {
+    text-align: center;
+}
+
+.testimonial-right h3 {
+    text-align-last: initial;
+    padding-top: 11px;
+    padding-right: 0px;
+    text-align: center;
+}
+
+
+.testimonial-right h6 {
+    text-align-last: initial;
+    text-align: center;
+}
+
+
+.footer-area {
+    padding: 40px 0;
+}
+
+.footer-left img {
+    margin: auto;
+}
+
+.footer-left p {
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.dwonfooter-part form input[type="email" ] {
+    padding: 7px 6px;
+}
+
+.dwonfooter-part form input[type="text" ] {
+    padding: 7px 6px;
+}
+
+
+.footer-part1 h5, .footer-part2 h5, .footer-part3 h5 {
+    padding-top: 20px;
+}
+
+.dwonfooter-part form p {
+    padding-bottom: 2px;
+    padding-top: 10px;
+}
+
+.dwonfooter-part form input[type="submit" ] {
+    width: 100%;
+    padding: 9px 10px !important;
+}
+
+
+
+
+}
+
+/*
+====================================
+Xtra Small Screen - Small Mobile
+====================================
+*/
+@media screen and (max-width: 576px) {
+
+.topheader-area {
+    display: none;
+}
+
+
+.header-area {
+    display: none;
+}
+
+.mobileheader-area {
+    display: block;
+}
+
+
+.navbar-brand img {
+    width: 205px;
+    display: block;
+}
+
+.main-menu-part ul {
+    padding-top: 20px;
+}
+
+.main-menu-part ul li {
+    float: none;
+    border-bottom: 1px solid #000000;
+}
+
+.main-menu-part ul li a {
+    padding: 21px 0px 12px 5px;
+}
+
+.datasyco-area {
+    padding: 40px 0;
+    padding-bottom: 40px;
+}
+
+
+.datasyco-left h2 {
+    font-size: 32px;
+    padding-bottom: 15px;
+}
+
+.mainservices-area {
+    padding: 40px 0;
+}
+
+.services-part {
+    padding: 20px;
+    position: inherit;
+    top: -27px;
+    left: 13%;
+    right: 13%;
+}
+
+.services-left img {
+    position: initial;
+    top: -207px;
+}
+
+
+.servicesinner-area {
+    padding: 5px 0;
+    padding-top: 1px;
+}
+
+.srvinner-part h2 {
+    font-size: 20px;
+    padding-top: 0px;
+}
+
+.srvinner-part h3 {
+    font-size: 21px;
+    padding-top: 2px;
+}
+
+.mainoursrs-area {
+    padding: 40px 0;
+}
+
+
+.ourservice-part {
+    margin-bottom: 50px;
+}
+
+
+.ourservice-part img {
+    width: 100%;
+}
+
+.ourservice-parts {
+    bottom: -26%;
+}
+
+
+.ourservice-parts {
+    bottom: -12% !important;
+}
+
+.oursrvsinner-area {
+    padding: 0px 0;
+    padding-top: 0px;
+}
+
+
+.oursrvsinner-part img {
+    width: 100%;
+}
+
+.oursrvsinner-part {
+    margin-bottom: 54px;
+}
+
+.oursrvsinner-parts {
+    bottom: -26%;
+}
+
+
+.oursrvsinner-parts {
+    bottom: -14% !important;
+}
+
+.ourservice-area {
+    padding: 0px 0;
+}
+
+
+.lastservice-area {
+    padding: 0px 0;
+}
+
+.lastservice-part {
+    padding-top: 11px;
+}
+
+.whychoose-area {
+    padding: 40px 0;
+}
+
+
+.whychoose-part1 h3 {
+    font-size: 16px;
+    font-weight: 600;
+    padding-left: 73px;
+    margin-top: -48px;
+}
+
+.whychoose-part1 p {
+    font-size: 14px;
+}
+
+.whychoose-part1 {
+    padding-top: 0px;
+}
+
+.whychoose-right img {
+    padding-top: 20px;
+}
+
+
+.rqtcb-area {
+    padding: 40px 0;
+}
+
+.rqtcb-right form {
+    padding-top: 16px;
+}
+
+
+.rqtcb-right form input[type="submit"] {
+    width: 100%;
+}
+
+.client-area {
+    padding: 40px 0;
+    padding-bottom: 30px;
+}
+
+.client-top h2 {
+    font-size: 24px;
+}
+
+
+.client-top p {
+    font-size: 15px;
+    padding-bottom: 12px;
+}
+
+.client-part img {
+    padding-bottom: 15px;
+}
+
+.staytuned-left h2 {
+    font-size: 28px;
+    text-align: center;
+}
+
+.staytuned-left p {
+    text-align: center;
+    padding-bottom: 15px;
+}
+
+.staytuned-right form input[type="email"] {
+    width: 100%;
+}
+
+.staytuned-right form input[type="submit"] {
+    width: 100%;
+    margin-left: 0px;
+    margin-top: 7px;
+    margin-bottom: 0px;
+}
+
+
+.testimonials-area {
+    padding: 40px 0;
+}
+
+.testimonials-left img {
+    padding-top: 0px;
+}
+
+.testimonial-left img {
+    display: none;
+}
+
+.testimonial-right h2 {
+    font-size: 24px;
+    padding-left: 0px;
+    padding-top: 10px;
+    text-align: center;
+}
+
+.testimonial-right span {
+    margin-left: 0px;
+    margin: auto;
+}
+
+.testimonial-right p {
+    text-align: center;
+}
+
+.testimonial-right h3 {
+    text-align-last: initial;
+    padding-top: 11px;
+    padding-right: 0px;
+    text-align: center;
+}
+
+
+.testimonial-right h6 {
+    text-align-last: initial;
+    text-align: center;
+}
+
+
+.footer-area {
+    padding: 40px 0;
+}
+
+.footer-left img {
+    margin: auto;
+}
+
+.footer-left p {
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.footer-part1 h5, .footer-part2 h5, .footer-part3 h5 {
+    padding-top: 20px;
+}
+
+.dwonfooter-part form p {
+    padding-bottom: 2px;
+    padding-top: 10px;
+}
+
+.dwonfooter-part form input[type="submit" ] {
+    width: 100%;
+}
+
+
+
+
+}
